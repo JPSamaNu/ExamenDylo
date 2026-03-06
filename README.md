@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto del examen práctico.
 
 ## Objetivo
 
-Crear una aplicación simple de lista de tareas que permita al usuario lo de un CRUD basico:
+Crear un **sistema** simple de **lista de tareas** que permita al usuario hacer lo de un CRUD basico:
 - **Crear** nuevas tareas.
 - **Listar** las tareas existentes.
 - **Actualizar** la información de una tarea (por ejemplo, marcarla como completada).
